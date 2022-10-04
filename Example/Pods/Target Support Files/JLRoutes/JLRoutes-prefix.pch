@@ -10,9 +10,3 @@
 #endif
 #endif
 
-#import "YLBDRouterConfig.h"
-#import "YLBDRouterHandle.h"
-
-FOUNDATION_EXPORT double YLBDRouterVersionNumber;
-FOUNDATION_EXPORT const unsigned char YLBDRouterVersionString[];
-

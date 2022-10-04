@@ -1,9 +1,9 @@
 {
   "name": "YLBDRouter",
   "version": "0.1.0",
-  "summary": "A short description of YLBDRouter.",
+  "summary": "YLBDRouter.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/余礼钵/YLBDRouter",
+  "homepage": "https://github.com/YuliboTeam/YLBDRouter",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,16 @@
     "余礼钵": "564885081@qq.com"
   },
   "source": {
-    "git": "https://github.com/余礼钵/YLBDRouter.git",
+    "git": "https://github.com/YuliboTeam/YLBDRouter.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "YLBDRouter/Classes/**/*"
+  "source_files": "YLBDRouter/Classes/**/*",
+  "dependencies": {
+    "JLRoutes": [
+
+    ]
+  }
 }

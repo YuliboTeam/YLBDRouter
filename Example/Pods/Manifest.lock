@@ -1,15 +1,22 @@
 PODS:
-  - YLBDRouter (0.1.0)
+  - JLRoutes (2.1)
+  - YLBDRouter (0.1.0):
+    - JLRoutes
 
 DEPENDENCIES:
   - YLBDRouter (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - JLRoutes
 
 EXTERNAL SOURCES:
   YLBDRouter:
     :path: "../"
 
 SPEC CHECKSUMS:
-  YLBDRouter: 0480e5b0368e8ceb801f6a42b3b3f362c09ec913
+  JLRoutes: d755245322b94227662ea3e43492fdca94e05c5b
+  YLBDRouter: be78fe148b2d796ed23cf1b0cba6b1482128f53c
 
 PODFILE CHECKSUM: 6abdcc4a546a155cc18a5166d6773082e5ebd2c8
 
