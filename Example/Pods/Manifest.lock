@@ -1,0 +1,16 @@
+PODS:
+  - YLBDRouter (0.1.0)
+
+DEPENDENCIES:
+  - YLBDRouter (from `../`)
+
+EXTERNAL SOURCES:
+  YLBDRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YLBDRouter: 0480e5b0368e8ceb801f6a42b3b3f362c09ec913
+
+PODFILE CHECKSUM: 6abdcc4a546a155cc18a5166d6773082e5ebd2c8
+
+COCOAPODS: 1.11.2
